@@ -1,5 +1,5 @@
 # S27-Tweaks-Illegal
-Lite Version of S27 Tweaks: https://github.com/snowhippo27/S27-Tweaks
+"Hacked" version of S27 Tweaks: https://github.com/snowhippo27/S27-Tweaks
 All packs created by me are available for public use.
 If you use any of my textures, I only ask 2 things;
 1. You at least make some changes, not just redistribute my original pack.
